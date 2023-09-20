@@ -1,0 +1,10 @@
+C:\Users\Claude\source\repos\delete4\delete4\bin\Debug\delete4.exe.config
+C:\Users\Claude\source\repos\delete4\delete4\bin\Debug\delete4.exe
+C:\Users\Claude\source\repos\delete4\delete4\bin\Debug\delete4.pdb
+C:\Users\Claude\source\repos\delete4\delete4\obj\Debug\delete4.csproj.AssemblyReference.cache
+C:\Users\Claude\source\repos\delete4\delete4\obj\Debug\delete4.Form1.resources
+C:\Users\Claude\source\repos\delete4\delete4\obj\Debug\delete4.Properties.Resources.resources
+C:\Users\Claude\source\repos\delete4\delete4\obj\Debug\delete4.csproj.GenerateResource.cache
+C:\Users\Claude\source\repos\delete4\delete4\obj\Debug\delete4.csproj.CoreCompileInputs.cache
+C:\Users\Claude\source\repos\delete4\delete4\obj\Debug\delete4.exe
+C:\Users\Claude\source\repos\delete4\delete4\obj\Debug\delete4.pdb
